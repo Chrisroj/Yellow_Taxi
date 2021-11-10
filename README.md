@@ -14,3 +14,5 @@ Predecir el volumen de viajes de taxis cada hora y comparar Arboles de Decisión
 
 #### Resultados
 La Red Neuronal fué la que mejor desempeño tuvo.
+
+![resultados](resultados.PNG)
