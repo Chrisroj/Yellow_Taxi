@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these files...
+!Analisis_Exploratorio.ipynb
+!Examen_Midterm_Equipo_2.pdf
+!Ingenieria_de_variables.ipynb
